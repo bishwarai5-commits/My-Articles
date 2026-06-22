@@ -1,11 +1,6 @@
 ---
 layout: null
 ---
-<div style="background-color: #e0f2fe; background-image: linear-gradient(180deg, #e0f2fe 0%, #bae6fd 100%); color: #0f172a; padding: 45px 30px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; min-height: 100vh; border-radius: 8px; max-width: 800px; margin: 0 auto; line-height: 1.6;">
-
-<div align="center" style="margin-bottom: 40px;">
-  <img src="Claude.png" width="500px" style="display: block; border-radius: 12px; box-shadow: 0 12px 30px rgba(3,105,161,0.15); border: 4px solid #ffffff;">
-</div>
 
 # The Dual-Edged Sword of Enterprise AI: Hands-On with Claude Code
 
@@ -54,9 +49,7 @@ As of today, AI still lacks the full depth of human empathy, intuition, and cont
 
 ---
 
-<div style="background-color: rgba(255,255,255,0.5); padding: 15px; border-left: 4px solid #0369a1; border-radius: 4px; margin: 20px 0;">
-  <strong>Note:</strong> The release of Anthropic Mythos, along with its public version, Fable 5, marks a new and unprecedented challenge for cybersecurity. I will try to share my analysis soon.
-</div>
+> **Note:** The release of Anthropic Mythos, along with its public version, Fable 5, marks a new and unprecedented challenge for cybersecurity. I will try to share my analysis soon.
 
 ---
 
@@ -69,6 +62,4 @@ As of today, AI still lacks the full depth of human empathy, intuition, and cont
 
 <div align="center" style="margin-top: 30px;">
   <a href="index.html" style="display: inline-block; padding: 12px 24px; font-size: 16px; font-weight: bold; color: #ffffff; background-color: #0369a1; border-radius: 6px; text-decoration: none; box-shadow: 0 4px 12px rgba(3,105,161,0.2);">← Back to Homepage</a>
-</div>
-
 </div>
