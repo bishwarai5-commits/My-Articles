@@ -1,7 +1,6 @@
 ---
 layout: null
 ---
-
 <div style="background-color: #e0f2fe; background-image: linear-gradient(180deg, #e0f2fe 0%, #bae6fd 100%); color: #0f172a; padding: 45px 30px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; min-height: 100vh; border-radius: 8px; box-shadow: inset 0 0 80px rgba(0,0,0,0.02);">
 
 <!-- CENTRAL HEADER -->
@@ -21,8 +20,7 @@ layout: null
 <h3 style="color: #0369a1; font-size: 21px; margin-bottom: 15px; font-weight: 700;">🤖 Artificial Intelligence & Enterprise</h3>
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 35px;">
   <li style="margin-bottom: 14px; font-size: 16px;">
-    📝 <a href="claude-enterprise.md" style="color: #025a87; font-weight: 700; text-decoration: none; border-bottom: 2px solid #025a87; padding-bottom: 2px;"> **[The Dual-Edged Sword of Enterprise AI: Hands-On with Claude Code](claude-enterprise.html)**
-
+    📝 <a href="claude-enterprise.html" style="color: #025a87; font-weight: 700; text-decoration: none; border-bottom: 2px solid #025a87; padding-bottom: 2px;">The Dual-Edged Sword of Enterprise AI: Hands-On with Claude Code</a>
   </li>
   <li style="margin-bottom: 14px; font-size: 16px; color: #64748b; font-style: italic;">
     ⏳ AI Governance and Cost Control in Modern Technical Teams (Coming Soon)
