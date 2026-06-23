@@ -40,6 +40,8 @@ layout: null
       <span style="background-color: #0369a1; color: #ffffff; padding: 3px 8px; border-radius: 4px; font-size: 12px; font-weight: 600;">Classical Machine Learning</span>
       <span style="background-color: #0369a1; color: #ffffff; padding: 3px 8px; border-radius: 4px; font-size: 12px; font-weight: 600;">Tensorflow</span>
       <span style="background-color: #0369a1; color: #ffffff; padding: 3px 8px; border-radius: 4px; font-size: 12px; font-weight: 600;">Statistics</span>
+      <span style="background-color: #0369a1; color: #ffffff; padding: 3px 8px; border-radius: 4px; font-size: 12px; font-weight: 600;">Linear Algebra & Calculus</span>
+      <span style="background-color: #0369a1; color: #ffffff; padding: 3px 8px; border-radius: 4px; font-size: 12px; font-weight: 600;">Non-Euclidean Optimization</span>
     </div>
   </div>
 
