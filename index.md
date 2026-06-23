@@ -3,6 +3,7 @@ layout: null
 ---
 <div style="background-color: #e0f2fe; background-image: linear-gradient(180deg, #e0f2fe 0%, #bae6fd 100%); color: #0f172a; padding: 45px 30px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; min-height: 100vh; border-radius: 8px; box-shadow: inset 0 0 80px rgba(0,0,0,0.02);">
 
+
 <!-- CENTRAL HEADER -->
 <div align="center" style="margin-bottom: 35px;">
   <h1 style="margin: 0 0 10px 0; font-size: 34px; font-weight: 800; color: #0369a1; border-bottom: none; letter-spacing: -0.5px;">Bishwa's Article Hub</h1>
