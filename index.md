@@ -11,9 +11,10 @@ layout: null
 
 <!-- FEATURED IMAGE CARD -->
 <div align="center" style="margin-bottom: 40px;">
-  <img src="homepage-profile-banner.png" width="500px" style="display: block; border-radius: 12px; box-shadow: 0 12px 30px rgba(3,105,161,0.15); border: 4px solid #ffffff;">
+  <img src="homepage-profile-banner.png" width="100%" style="display: block; max-width: 700px; border-radius: 12px; box-shadow: 0 12px 30px rgba(3,105,161,0.15); border: 4px solid #ffffff;">
 </div>
 
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(3,105,161,0), rgba(3,105,161,0.2), rgba(3,105,161,0)); margin-bottom: 35px;">
 
 <!-- NAVIGATION MENU -->
 <h3 style="color: #0369a1; font-size: 21px; margin-bottom: 15px; font-weight: 700;">🤖 Artificial Intelligence & Enterprise</h3>
