@@ -83,8 +83,8 @@ layout: null
 
 <h3 style="color: #0369a1; font-size: 21px; margin-bottom: 15px; font-weight: 700;">🔒 Cybersecurity & Systems</h3>
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 35px;">
-  <li style="margin-bottom: 14px; font-size: 16px; color: #64748b; font-style: italic;">
-    ⏳ Anthropic Mythos & Fable 5: Unprecedented Security Challenges (Coming Soon)
+  <li style="margin-bottom: 14px; font-size: 16px;">
+  📝<a href="anthropic-mythos-fable-5.html" style="color: #025a87; font-weight: 700; text-decoration: none; border-bottom: 2px solid #025a87; padding-bottom: 2px;">Anthropic Mythos & Fable 5: Unprecedented Security Challenges</a>
   </li>
 </ul>
 
